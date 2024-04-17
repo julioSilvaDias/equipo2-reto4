@@ -35,7 +35,9 @@ public class Ejercicio1 {
 		case 4:
 			System.out.println("Ha seleccionado la opcion 4");
 			break;
-		
+		/*
+		 * hola
+		 */
 			}
 
 	}
