@@ -1,0 +1,5 @@
+package spotify.bbdd.pojos;
+
+public class Cancion {
+
+}
